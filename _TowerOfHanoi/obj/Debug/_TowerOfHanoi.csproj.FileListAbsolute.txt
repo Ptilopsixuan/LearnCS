@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\bin\Debug\_TowerOfHanoi.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\bin\Debug\_TowerOfHanoi.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\bin\Debug\_TowerOfHanoi.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\obj\Debug\_TowerOfHanoi.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\obj\Debug\_TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\obj\Debug\_TowerOfHanoi.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\_TowerOfHanoi\obj\Debug\_TowerOfHanoi.pdb

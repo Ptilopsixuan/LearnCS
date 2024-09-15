@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\bin\Debug\f.k.Operator_Logical.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\bin\Debug\f.k.Operator_Logical.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\bin\Debug\f.k.Operator_Logical.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\obj\Debug\f.k.Operator_Logical.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\obj\Debug\f.k.Operator_Logical.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\obj\Debug\f.k.Operator_Logical.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.k.Operator_Logical\obj\Debug\f.k.Operator_Logical.pdb

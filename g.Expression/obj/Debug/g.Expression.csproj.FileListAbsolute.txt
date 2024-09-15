@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\bin\Debug\g.Expression.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\bin\Debug\g.Expression.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\bin\Debug\g.Expression.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\obj\Debug\g.Expression.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\obj\Debug\g.Expression.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\obj\Debug\g.Expression.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\g.Expression\obj\Debug\g.Expression.pdb

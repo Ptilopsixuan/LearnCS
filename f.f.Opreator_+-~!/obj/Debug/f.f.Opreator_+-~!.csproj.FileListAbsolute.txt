@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\bin\Debug\f.f.Opreator_+-~!.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\bin\Debug\f.f.Opreator_+-~!.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\bin\Debug\f.f.Opreator_+-~!.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\obj\Debug\f.f.Opreator_+-~!.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\obj\Debug\f.f.Opreator_+-~!.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\obj\Debug\f.f.Opreator_+-~!.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.f.Opreator_+-~!\obj\Debug\f.f.Opreator_+-~!.pdb

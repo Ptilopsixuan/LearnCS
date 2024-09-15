@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\bin\Debug\d.TypeOfTypes.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\bin\Debug\d.TypeOfTypes.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\bin\Debug\d.TypeOfTypes.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\obj\Debug\d.TypeOfTypes.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\obj\Debug\d.TypeOfTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\obj\Debug\d.TypeOfTypes.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.TypeOfTypes\obj\Debug\d.TypeOfTypes.pdb

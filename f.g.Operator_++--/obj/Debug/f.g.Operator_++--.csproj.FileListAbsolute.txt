@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\bin\Debug\f.g.Operator_++--.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\bin\Debug\f.g.Operator_++--.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\bin\Debug\f.g.Operator_++--.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\obj\Debug\f.g.Operator_++--.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\obj\Debug\f.g.Operator_++--.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\obj\Debug\f.g.Operator_++--.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.g.Operator_++--\obj\Debug\f.g.Operator_++--.pdb

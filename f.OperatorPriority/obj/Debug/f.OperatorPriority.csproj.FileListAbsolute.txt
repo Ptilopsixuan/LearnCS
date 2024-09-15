@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\bin\Debug\f.OperatorPriority.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\bin\Debug\f.OperatorPriority.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\bin\Debug\f.OperatorPriority.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\obj\Debug\f.OperatorPriority.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\obj\Debug\f.OperatorPriority.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\obj\Debug\f.OperatorPriority.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.OperatorPriority\obj\Debug\f.OperatorPriority.pdb

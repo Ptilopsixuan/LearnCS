@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\bin\Debug\f.m.Operator_null_combine.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\bin\Debug\f.m.Operator_null_combine.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\bin\Debug\f.m.Operator_null_combine.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\obj\Debug\f.m.Operator_null_combine.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\obj\Debug\f.m.Operator_null_combine.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\obj\Debug\f.m.Operator_null_combine.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.m.Operator_null_combine\obj\Debug\f.m.Operator_null_combine.pdb

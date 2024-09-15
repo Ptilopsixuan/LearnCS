@@ -1,0 +1,7 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+using ClassLibrary;
+
+Console.WriteLine("Hello, World!");
+string message = new MyClass().MyMethod();
+Console.WriteLine(message);

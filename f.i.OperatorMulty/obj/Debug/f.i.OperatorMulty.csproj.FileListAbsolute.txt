@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\obj\Debug\f.i.OperatorMulty.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\obj\Debug\f.i.OperatorMulty.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\bin\Debug\f.i.OperatorMulty.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\bin\Debug\f.i.OperatorMulty.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\bin\Debug\f.i.OperatorMulty.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\obj\Debug\f.i.OperatorMulty.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.i.OperatorMulty\obj\Debug\f.i.OperatorMulty.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\bin\Debug\net8.0\b.ClassLibrary.deps.json
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\bin\Debug\net8.0\b.ClassLibrary.dll
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\bin\Debug\net8.0\b.ClassLibrary.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.AssemblyInfo.cs
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.dll
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\refint\b.ClassLibrary.dll
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\b.ClassLibrary.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\ClassLibrary\obj\Debug\net8.0\ref\b.ClassLibrary.dll

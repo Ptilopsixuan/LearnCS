@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\bin\Debug\f.l.Operator_Condition.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\bin\Debug\f.l.Operator_Condition.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\bin\Debug\f.l.Operator_Condition.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\obj\Debug\f.l.Operator_Condition.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\obj\Debug\f.l.Operator_Condition.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\obj\Debug\f.l.Operator_Condition.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.l.Operator_Condition\obj\Debug\f.l.Operator_Condition.pdb

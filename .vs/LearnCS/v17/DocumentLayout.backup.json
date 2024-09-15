@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73479E8C-7987-45BA-9A80-8C4C2DFCA341}|f.h.Operator_Conversion\\f.h.Operator_Conversion.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\f.h.operator_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73479E8C-7987-45BA-9A80-8C4C2DFCA341}|f.h.Operator_Conversion\\f.h.Operator_Conversion.csproj|solutionrelative:f.h.operator_conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CCB570-C228-4004-A945-49E68BCDC672}|f.n.Operator_Condition_Operator\\f.n.Operator_Condition_Operator.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\f.n.operator_condition_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CCB570-C228-4004-A945-49E68BCDC672}|f.n.Operator_Condition_Operator\\f.n.Operator_Condition_Operator.csproj|solutionrelative:f.n.operator_condition_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83222DFB-DB00-4008-8E55-8F4E7ABFED39}|f.o.Operator_=\\f.o.Operator_=.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\f.o.operator_=\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83222DFB-DB00-4008-8E55-8F4E7ABFED39}|f.o.Operator_=\\f.o.Operator_=.csproj|solutionrelative:f.o.operator_=\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A95E628-80F0-4983-A473-CEB383CACCA2}|f.m.Operator_null_combine\\f.m.Operator_null_combine.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\f.m.operator_null_combine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A95E628-80F0-4983-A473-CEB383CACCA2}|f.m.Operator_null_combine\\f.m.Operator_null_combine.csproj|solutionrelative:f.m.operator_null_combine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7238FB6C-77B9-478B-9D72-CFCEA13EE21C}|f.j.Operator_Judge\\f.j.Operator_Judge.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\f.j.operator_judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7238FB6C-77B9-478B-9D72-CFCEA13EE21C}|f.j.Operator_Judge\\f.j.Operator_Judge.csproj|solutionrelative:f.j.operator_judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EA754F-DEB5-4D92-BD1B-30F647FF058A}|g.Expression\\g.Expression.csproj|c:\\users\\ptilopsixuan\\desktop\\learn_c#\\learncs\\g.expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EA754F-DEB5-4D92-BD1B-30F647FF058A}|g.Expression\\g.Expression.csproj|solutionrelative:g.expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.h.Operator_Conversion\\Program.cs",
+              "RelativeDocumentMoniker": "f.h.Operator_Conversion\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.h.Operator_Conversion\\Program.cs",
+              "RelativeToolTip": "f.h.Operator_Conversion\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:15:45.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.n.Operator_Condition_Operator\\Program.cs",
+              "RelativeDocumentMoniker": "f.n.Operator_Condition_Operator\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.n.Operator_Condition_Operator\\Program.cs",
+              "RelativeToolTip": "f.n.Operator_Condition_Operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:14:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.o.Operator_=\\Program.cs",
+              "RelativeDocumentMoniker": "f.o.Operator_=\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.o.Operator_=\\Program.cs",
+              "RelativeToolTip": "f.o.Operator_=\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:14:41.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.m.Operator_null_combine\\Program.cs",
+              "RelativeDocumentMoniker": "f.m.Operator_null_combine\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.m.Operator_null_combine\\Program.cs",
+              "RelativeToolTip": "f.m.Operator_null_combine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:58:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.j.Operator_Judge\\Program.cs",
+              "RelativeDocumentMoniker": "f.j.Operator_Judge\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\f.j.Operator_Judge\\Program.cs",
+              "RelativeToolTip": "f.j.Operator_Judge\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:56:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\g.Expression\\Program.cs",
+              "RelativeDocumentMoniker": "g.Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\Ptilopsixuan\\Desktop\\Learn_C#\\LearnCS\\g.Expression\\Program.cs",
+              "RelativeToolTip": "g.Expression\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:41:31.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

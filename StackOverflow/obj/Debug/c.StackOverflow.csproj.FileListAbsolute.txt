@@ -1,0 +1,4 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\StackOverflow\obj\Debug\c.StackOverflow.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\StackOverflow\obj\Debug\c.StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\StackOverflow\obj\Debug\StackOverflow.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\StackOverflow\obj\Debug\StackOverflow.pdb

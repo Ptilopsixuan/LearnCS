@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\bin\Debug\d.Variety.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\bin\Debug\d.Variety.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\bin\Debug\d.Variety.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\obj\Debug\d.Variety.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\obj\Debug\d.Variety.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\obj\Debug\d.Variety.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\d.Variety\obj\Debug\d.Variety.pdb

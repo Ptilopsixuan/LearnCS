@@ -1,0 +1,7 @@
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\obj\Debug\f.Operator_pointer.csproj.AssemblyReference.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\obj\Debug\f.Operator_pointer.csproj.CoreCompileInputs.cache
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\bin\Debug\f.Operator_pointer.exe.config
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\bin\Debug\f.Operator_pointer.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\bin\Debug\f.Operator_pointer.pdb
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\obj\Debug\f.Operator_pointer.exe
+C:\Users\Ptilopsixuan\Desktop\Learn_C#\LearnCS\f.Operator_pointer\obj\Debug\f.Operator_pointer.pdb
